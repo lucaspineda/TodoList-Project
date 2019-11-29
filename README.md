@@ -1,29 +1,19 @@
-# todo
+# Todo List
 
-## Project setup
+An example project of a To do List which I used VueJs framework to build it.
+
+## Run Project
+
+In order to run the project first install the packages running:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Then run the application using:
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Thanks,
+Lucas Pineda
